@@ -1,0 +1,11 @@
+DAWID	Muras	70100700357	ul. Zbaraska 127
+MAREK	Piechowski	84121714833	ul. Lubelska 19
+JACEK	Wróblewski	74062703274	ul. Aluminiowa 80
+MICHA£	Darmetko	10320610975	ul. Grabiszyñska 135
+GRZEGORZ	Pogorzelski	43215123500	ul. £uczek 100
+ANDRZEJ	Matysek	44040604097	ul. Szczotkarska 2
+W£ADYS£AW	Dycha	45021404813	ul. Mazurska 69
+JANUSZ	Zjawin	56071614910	ul. W³adys³awa IV 30
+TOMASZ	Kurek	92525132941	ul. Obroki 107
+DANIEL	Miller	43222165982	ul. Œl¹ska 54
+WALDEMAR	Medyñski	26090403338	ul. Szpacza 2
